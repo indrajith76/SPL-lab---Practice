@@ -1,3 +1,5 @@
+/*Write a C program that accepts two integers from the user and calculates the 
+sum, product and division of the two integers.*/
 #include<stdio.h>
 
 int main(){
