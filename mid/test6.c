@@ -12,13 +12,9 @@ int main()
         sum += i;
 
         if (i == n)
-        {
             printf("%d ", i);
-        }
         else
-        {
             printf("%d + ", i);
-        }
     }
     printf(" = %d", sum);
 }

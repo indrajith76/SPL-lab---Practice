@@ -15,3 +15,4 @@ int main()
     else
         printf("%c is Consonant", charater);
 }
+ 
